@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "12231ade7a4a41ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "df4f7c01663abc8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4746f3a12e634ec",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24e239d0a11c8fec",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b2934f719fc604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113bc7643e35e9b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d1c834b884d197d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c7fe5c759640f19",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a01c7364017a44e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c947871198c4565c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18f845ba9aa14c69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7b4c2411362452c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa6896c817d6de7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "601fc4f11410280d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "113bc7643e35e9b0",
+  "lastOpenFiles": [
+    "LaTeX/assets/常用技巧_image-2.png",
+    "LaTeX/assets/常用技巧_image-1.png",
+    "LaTeX/assets/常用技巧_image.png",
+    "LaTeX/assets/常用技巧_image.png.png",
+    "LaTeX/assets",
+    "LaTeX/assets/常用技巧_",
+    "LaTeX/LaTeX/常用技巧.md/assets/image.png",
+    "LaTeX/LaTeX/常用技巧.md/assets",
+    "LaTeX/LaTeX/常用技巧.md",
+    "LaTeX/LaTeX",
+    "LaTeX/image.png",
+    "assets/31f94f8afe949f34c5eed6567a1ec4d42f165a34231890c4c0091d13c07528c8.png",
+    "assets",
+    "LaTeX/常用技巧.md",
+    "LaTeX",
+    "untitled folder",
+    "obsidian/Markdown 插入图片.md",
+    "Markdown/assets",
+    "Markdown/Markdown 简介.md",
+    "Markdown/Markdown 插入图片.md",
+    "Markdown/Markdown 基本语法.md",
+    "Markdown",
+    "obsidian/Markdown 基本语法.md",
+    "obsidian/Markdown 简介.md",
+    "(Markdown.md",
+    "链接地址.md",
+    "excalibrain.md",
+    "Excalidraw/ExcaliBrain Snapshot - 链接地址.excalidraw.md",
+    "Excalidraw",
+    "Excalidraw/Drawing 2023-12-05 15.49.11.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 15.43.48.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-05 15.44.08.excalidraw.md",
+    "obsidian/Obsidian 插入图片.md",
+    "obsidian/Obsidian 简介.md",
+    "obsidian/Obsidian.md",
+    "obsidian/assets/2023-12-05-10-36-51.png",
+    "Obsidian.md",
+    "assets/2023-12-05-10-32-49.png"
+  ]
+}
